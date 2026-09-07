@@ -9,8 +9,9 @@ React.js • JavaScript • TypeScript • HTML • CSS • PHP • Git
 
 ### 🚀 Featured Projects
 🛒 POS Inventory Management System  
-📦 Inventory Management System  
-⚡ TypeScript Project Hub
+📦 Food Delivery Platform  
+⚡ PG Finder
+
 
 ### 🌱 Currently Learning
 Next.js • Node.js • Express.js • MongoDB
